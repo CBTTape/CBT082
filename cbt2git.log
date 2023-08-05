@@ -1,0 +1,7 @@
+2023-08-06 00:46:23.672037 - Initialized conversion of CBT082
+2023-08-06 00:46:23.731448 - Received CBT.V505.FILE082.PDS from FILE082.XMI 
+2023-08-06 00:46:23.733732 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE082.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:46:23.734676 - Found @FILE082.txt (text/plain) in CBT.V505.FILE082.PDS, moved to PDS/@FILE082
+2023-08-06 00:46:23.735763 - Found IEHMAP.txt (text/plain) in CBT.V505.FILE082.PDS, moved to PDS/IEHMAP
+2023-08-06 00:46:23.736741 - Found PTFXREF.txt (text/plain) in CBT.V505.FILE082.PDS, moved to PDS/PTFXREF
+2023-08-06 00:46:23.737658 - Found SUPERZAP.txt (text/plain) in CBT.V505.FILE082.PDS, moved to PDS/SUPERZAP
